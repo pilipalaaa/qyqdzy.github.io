@@ -1,0 +1,77 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: cursive;font-size: 16px;color:#000000;line-height: 20px;text-align:left;}
+td,th {font-family: cursive;font-size: 12px;color: #000000;}
+a {color: #FFF;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+
+.clearit{clear:both;}
+
+.da {width:1000px; margin:0 auto;}
+
+.dao {width:1000px; height:50px; text-align:center; line-height:50px; background:#2b364c;}
+
+.dao1 {width:1000px; height:50px; text-align:center; line-height:50px; background:#c0c0c0;}
+
+.dao li{width:166.66px; float:left;}
+
+.dao1 li{width:166.66px; float:left;}
+
+.dao a {color:#FFF; font-size:16px; font-weight:bold; width:166.66px; height:50px; display:block;}
+
+.dao A:hover{background:#7a88a4;}
+
+.xia { width:1000px;  margin-top:20px; color:#FFF;
+ background:#2b364c;
+background:
+radial-gradient(circle at top left,
+transparent 8px,#2b364c 0)top left,
+radial-gradient(circle at top right,
+transparent 8px,#2b364c 0)top right,
+radial-gradient(circle at bottom right,
+transparent 8px, #2b364c 0)bottom right,
+radial-gradient(circle at bottom left,
+transparent 8px,#2b364c 0)bottom left;
+background-size:50% 50%;
+background-repeat:no-repeat;}
+
+.xia1 { width:1000px;  margin-top:20px; color:#000000;
+    background:#f5f5f5;
+   background:
+   radial-gradient(circle at top left,
+   transparent 8px,#f5f5f5 0)top left,
+   radial-gradient(circle at top right,
+   transparent 8px,#f5f5f5 0)top right,
+   radial-gradient(circle at bottom right,
+   transparent 8px, #f5f5f5 0)bottom right,
+   radial-gradient(circle at bottom left,
+   transparent 8px,#f5f5f5 0)bottom left;
+   background-size:50% 50%;
+   background-repeat:no-repeat;}
+
+.xia1 p { line-height:30px; text-indent:2em; margin-left:80px; margin-right:20px;}
+
+.xia h2 {width:980px; height:40px; margin:0 auto; border-bottom:2px solid #FFF; line-height:40px; text-indent:2em;}
+
+.xia p { line-height:30px; text-indent:2em; margin-left:20px; margin-right:20px;}
+
+.tu img {margin-top:20px; margin-left:33px; margin-bottom:20px;}
+
+.foot {width:1000px; height:80px; text-align:center; line-height:80px; background:#2b364c; margin-top:20px;}
+
+.foot1 {width:1000px; height:80px; text-align:center; line-height:80px; background:#a9a9a9; margin-top:20px;font-size: 40px;font-style:oblique;}
+
+.foot p {color:#FFF; font-size:16px; font-weight:bold;}
+
+.huo img {margin-top:20px; margin-left:25px; margin-bottom:20px;}
+
+.xie { margin-top:20px; height:310px; padding-bottom:20px; }
+
+.xie samp { width:220px; height:310px; float:left;border:2px solid #CCCCCC; margin-left:20px; }
+
+.xie samp img { margin-top:5px; margin-left:10px;}
+
+.haha {font-size: large;font-family: cursive;line-height: 55px;text-align: center;color:maroon}
